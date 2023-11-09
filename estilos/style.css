@@ -27,11 +27,14 @@ menu > ul{
     padding: 20px;
 }
 menu > ul > li{
+    display: flex;
     font-size: 1.3em;
-    padding: 20px;
+    padding: 10px;
+
    
 }
 menu ul > li > a{
+    display: flex;
     text-decoration: none;
     color: white;
     padding: 18px;
