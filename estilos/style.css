@@ -8,7 +8,7 @@
 }
 body{
     background-color: aliceblue;
-    overflow: hidden;
+    
 }
 .cabeça{
     display: flex;
@@ -72,7 +72,7 @@ span#burguer:hover{
     background-image: url(https://especiais.g1.globo.com/app-g1/share-app-g1.jpg);
     background-position: center center;
     background-size: cover;
-    width: 100vw;
+    width: 96vw;
     height: 250px;
 }
 .imghome h1{
@@ -80,8 +80,8 @@ span#burguer:hover{
     color: white;
     justify-content: end;
     margin-top: 0%;
-    margin-left: 150px;
-    height: 59.5%;
+    margin-left: 120px;
+    height: 62%;
     padding-top: 20%;
     width: 75%;
     font-size: 1.8em;
