@@ -29,9 +29,11 @@ menu{
 
 }
 menu > ul{
+    display: block;
     list-style-type: none;
     padding: 20px;
     padding-top: 0px;
+    margin: auto;
 }
 menu > ul > li{
     display: flex;
