@@ -96,6 +96,7 @@ span#burguer:hover{
   
 }
 section.not1{
+    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.521);
     background-color: white;
     margin-top: 16px;
     padding: 20px;
@@ -111,7 +112,7 @@ section.not1 > a{
     
 }
 section.not2{
-    
+    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.521);
     background-color: white;
     margin-top: 16px;
    
@@ -130,4 +131,9 @@ section.not2 > p{
     padding: 20px; 
     padding-bottom: 0;
     font-size: 1.3em;
+}
+section.p1{
+    padding: 2px;
+    color: rgb(87, 86, 86);
+    font-size: 0.4em;
 }
