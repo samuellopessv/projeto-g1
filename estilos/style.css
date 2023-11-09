@@ -70,23 +70,30 @@ span#burguer:hover{
 }
 .imghome{
     background-image: url(https://especiais.g1.globo.com/app-g1/share-app-g1.jpg);
+    
     background-position: center center;
     background-size: cover;
-    width: 96vw;
+    width: 99vw;
+    min-width:95vw ;
+    max-width: 100vw;
     height: 250px;
+
 }
 .imghome h1{
-    
+
     color: white;
     justify-content: end;
     margin-top: 0%;
     margin-left: 120px;
-    height: 62%;
+    height: 68%;
     padding-top: 20%;
-    width: 75%;
+    width: 79%;
     font-size: 1.8em;
     border-radius: 5px;
     background-color: rgba(0, 0, 0, 0.637);
+    min-width: 250px;
+    max-width: 300px;
+    max-height: 200px;
 }
 section.not1{
     background-color: white;
