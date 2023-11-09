@@ -55,7 +55,7 @@ span#burguer{
     color: white;
     font-size: 40px;
     cursor: pointer;
-    padding: 20px;
+    padding: 10px;
 }
 span#burguer:hover{
     
