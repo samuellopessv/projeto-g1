@@ -123,9 +123,14 @@ section.not2 > img{
     width: 100%;
     
 }
-section.not2 > h1{
+section.not2 > a{
+    display: block;
+    font-weight: bold;
     color: rgb(165, 9, 9);
     padding: 20px;
+    text-align: left;
+    font-size: 1.7em;
+    text-decoration: none;
 }
 section.not2 > p{
     padding: 20px; 
