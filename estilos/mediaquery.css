@@ -14,8 +14,14 @@
             height: 250px;
         
         }
-    }
+        main section{
+            display: block;
+            max-width: 80vw;
+            margin: auto;
+            
+        }
 
+        
     .imghome h1{
     
         color: white;
@@ -25,4 +31,7 @@
        
       
     }
+    }
+
+  
 
